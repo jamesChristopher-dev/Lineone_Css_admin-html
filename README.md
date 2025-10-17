@@ -274,10 +274,10 @@ jobs:
 
 ## Contact / Author
 
-**Author:** Your Name
+**Author:** James Christopher
 
-* GitHub: `https://github.com/your-username`
-* Email: `your.email@example.com`
+* GitHub: `https://github.com/jamesChristopher-dev`
+* Email: `jameschristopher.contact@gmail.com`
 
 Replace with your real contact details before publishing.
 
