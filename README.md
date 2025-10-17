@@ -288,19 +288,3 @@ Replace with your real contact details before publishing.
 ```
 MIT License — see LICENSE file for details.
 ```
-
----
-
-### Quick action items to ship this as a product
-
-1. Replace placeholder links & contact info.
-2. Add real API integration for Orders (mock or real).
-3. Add a simple auth flow and role-based UI examples.
-4. Configure Tailwind purge and production build.
-5. Deploy to Vercel/Netlify + connect analytics + error tracking.
-
-If you want, I can now:
-
-* generate a ready `tailwind.config.js` and `postcss.config.js`,
-* produce a sample `server.js` with the orders API endpoints and sample data, or
-* create a GitHub Actions YAML tuned to deploy the UI to Netlify.
